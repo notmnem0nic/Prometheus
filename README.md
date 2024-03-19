@@ -16,10 +16,12 @@ When will that tool released?
 I can't say the exact date, but it won't be soon.
 
 /////////////////////////////////////////////////////
+
 --- Tool task ---
 Executing assembler code on java, debugging and code optimization.
 
 /////////////////////////////////////////////////////
+
 --- Tool functions ---
 
 * - Runtime code execution
